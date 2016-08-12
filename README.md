@@ -3,8 +3,10 @@
 This simple svg chart library has been created for html5 coders, using data attribute to style own chart.
 Created from the concept to have curved charts
 /*
+
 	created by : Subhajit Das
 	contact    : dascorp@live.in	
+
 */
 
 
