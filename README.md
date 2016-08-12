@@ -14,20 +14,21 @@ Created from the concept to have curved charts
 	/** ************************************************** **/
 
 example:: 
-<script type="text/javascript">
-      window.onload = svgGrpah;
-</script>
+	<script type="text/javascript">
+      		window.onload = svgGrpah;
+	</script>
 
 or if you are calling multiple functions in onload
-<script type="text/javascript">
-      window.onload = function(){
-	svgGrpah();
-      };
-</script>
+	<script type="text/javascript">
+      		window.onload = function(){
+			svgGrpah();
+      		};
+	</script>
 or you can add this function 'svgGrpah()' on any event of your choice.
-/** *************** CSS ****************** **/
-you need only chart-style.css file.
-Check it out, this is a simple style, you can edit it in your own.
+
+	/** *************** CSS ****************** **/
+	you need only chart-style.css file.
+	Check it out, this is a simple style, you can edit it in your own.
 
 Thanks 
 Subhajit 
