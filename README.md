@@ -6,17 +6,12 @@ Created from the concept to have curved charts
 
 	created by : Subhajit Das
 	contact    : dascorp@live.in	
-
-
-
-
-
-
-	/** ************************************************** **/
-	 ** on window load or document load call this function **
-			****** -------------- ********
-			------	svgGrpah();  ---------
-			****** -------------- ********
+/** ************************************************** **/
+** on window load or document load call this function **
+		****** -------------- ********
+		------	svgGrpah();  ---------
+		****** -------------- ********
+/** ************************************************** **/
 
 example:: 
 <script type="text/javascript">
